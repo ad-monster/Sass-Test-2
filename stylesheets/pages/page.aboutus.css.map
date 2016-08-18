@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wCAAwC;AACxC,0BAA0B",
+"sources": ["../../sass/pages/page.aboutus.scss"],
+"names": [],
+"file": "page.aboutus.css"
+}

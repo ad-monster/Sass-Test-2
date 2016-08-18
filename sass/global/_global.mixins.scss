@@ -1,0 +1,82 @@
+// ==============================
+// GENERAL MIXINS
+
+
+// ==============================
+// CLEARFIX
+@mixin clearfix {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+// ==============================
+// DROP SHADOW
+@mixin shadow( $x, $y, $blur, $color ) {
+  -webkit-box-shadow: $x $y $blur $color;
+     -moz-box-shadow: $x $y $blur $color;
+          box-shadow: $x $y $blur $color;
+}
+
+
+// ==============================
+// ROUND CORNERS
+@mixin rounded( $radius ) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+          border-radius: $radius;
+}
+
+
+// ==============================
+// OPACITY
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); //IE8
+}
+
+
+// ==============================
+// ALIGN VERTICALLY
+@mixin vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+// =========================================
+// SET BREAKPOINTS FOR RESPONSIVE
+$pagebreak-wide: 90em;
+$pagebreak-med: 64em;
+$pagebreak-sm: 40em;
+$pagebreak-vsm: 30em;
+
+
+@mixin responsive( $width ) {
+
+  @if $width == wide-screens {
+    // @media only screen and (max-width: $pagebreak-wide ) { @content }
+    @media only screen and (max-width: $pagebreak-wide ) { @content }
+  }
+
+  @else if $width == med-screens {
+    @media only screen and (max-width: $pagebreak-med ) { @content }
+  }
+
+  @else if $width == sm-screens {
+    @media only screen and (max-width: $pagebreak-sm ) { @content }
+  }
+
+  @else if $width == vsm-screens {
+    @media only screen and (max-width: $pagebreak-vsm ) { @content }
+  }
+
+  @else {
+    @media only screen and (max-width: $width ) { @content }
+  }
+
+}

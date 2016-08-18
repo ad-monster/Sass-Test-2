@@ -1,0 +1,47 @@
+// ================================================
+// CONSOLIDATED STYLESHEETS
+
+// ------------------------------------------------
+// MIXINS AND VARIABLES
+@import 'global/_global.mixins.scss';
+// @import 'global/_global-vars.scss';
+
+
+// ------------------------------------------------
+// EMBEDDED FONTS
+@import 'global/_global.fonts.scss';
+
+
+// ------------------------------------------------
+// EXTERNAL LIBRARY STYLESHEETS
+
+
+// ------------------------------------------------
+// GLOBAL TYPOGRAPHY
+@import 'global/_global.typography.scss';
+
+
+// ------------------------------------------------
+// GLOBAL STRUCTURE
+@import 'global/_global.header.scss';
+@import 'global/_global.footer.scss';
+@import 'global/_global.navigation.scss';
+@import 'global/_global.forms.scss';
+
+
+// ------------------------------------------------
+// GLOBAL ELEMENTS
+@import 'global/_global.tables.scss';
+@import 'global/_global.images.scss';
+
+
+// ------------------------------------------------
+// GLOBAL WIDGET COMPONENTS
+@import 'widgets/_widget.social.scss';
+
+
+// ------------------------------------------------
+// SPECIFIC ELEMENTS
+// @import 'widgets/_widget.xxxxx.scss';
+
+
