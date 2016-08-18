@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AACA,wCAAwC;AACxC,wBAAwB",
-"sources": ["../../../sass/apps/test-app-01/apps.test-app-01.scss"],
-"names": [],
-"file": "apps.test-app-01.css"
-}

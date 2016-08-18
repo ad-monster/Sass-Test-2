@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,wCAAwC;AACxC,yBAAyB",
-"sources": ["../../sass/sections/section.news.scss"],
-"names": [],
-"file": "section.news.css"
-}
