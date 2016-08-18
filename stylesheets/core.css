@@ -4,6 +4,10 @@
 @import "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300";
 /* ================================================ */
 /* GLOBAL TYPOGRAPHY */
+h1 {
+  font-size: 18px;
+}
+
 h2 {
   font-family: Arial, sans-serif;
 }
@@ -29,6 +33,10 @@ nav {
 
 /* ================================================ */
 /* GLOBAL LISTS */
+.newslist {
+  color: #090;
+}
+
 /* ================================================ */
 /* GLOBAL FORMS */
 input {
