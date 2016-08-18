@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/global/_global.forms.scss",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/global/_global.navigation.scss",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/pages/page.highlight.scss",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/widgets/_widget.linkbar.scss",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/core.scss",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/global/_global.fonts.scss",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/global/_global.footer.scss",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/apps",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/apps/test-app-01",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/apps/test-app-02",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/global",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/pages",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/widgets",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/stylesheets"
+	],
+	"file_history":
+	[
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/readme.md",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/global/_global.footer.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/global/_global.header.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/apps/test-app-02/apps.test-app-02.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/global/_global.lists.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/git-test/Sass-Test-2/sass/core.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/js_files_homepage_dev.txt",
+		"/P/ad_files/Projects/JS CSS Restructure/js_notes.txt",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.navigation.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/lib/_lightslider.1.1.3.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/lib/_lightslider.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/lib/_disqus.api.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.containers.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.fonts.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.forms.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.header.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.mixins.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.panels.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.responsive.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.searchbox.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.typography.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.footer.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.component.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_mil.global.clearfix.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/baseguides/app.baseguides.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_global-typography.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_military.desktop.global.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_global-mixins.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/meeting_notes_20160812_2.txt",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/military.global.consolidated.css.map",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/military.global.consolidated.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/military.global.consolidated.css",
+		"/P/ad_files/Projects/_code_examples/fatwire_component_code_examples.html",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/adelaney/Desktop/Twilight (SL).sublime.theme",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/pages/page.testimage.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/homepage_dev_local.html",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/js/js_compiled_footer.js",
+		"/P/ad_files/Projects/general_todo.html",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter/Twilight (SL).tmTheme",
+		"/P/ad_files/Projects/Dev/dev_questions.txt",
+		"/P/ad_files/Projects/VTP/vtp_notes.txt",
+		"/P/ad_files/Projects/TRICARE Gate/widget.registration.tricare2016.json",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/global/_global-responsive.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/apps/mst/app.mst.waaf.responsive.css",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/apps/mst/app.mst.chenega.responsive.css",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/pages/pages.benefits.css",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/homepage_dev_local_css_images.html",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/folder.txt",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/sections/section.veteranjobs.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/pages/page.veteranjobs.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/pages/page.veteranjobs.css",
+		"/C/Users/adelaney/Desktop/Preferences.sublime-settings",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/mst/waaf.responsive.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/mst/chenega.responsive.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/military.desktop.global.consolidated.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/military.desktop.global.consolidated.css",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/buddyfinder/buddyfinder.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/baseguides.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/sass/apps/_baseguides--navy.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/stylesheets/pages/aboutus.css",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure/css/sass/military.desktop.global.consolidated.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure/css/sass/_pages/_aboutus.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/css/sass/military.desktop.global.consolidated.scss",
+		"/P/ad_files/Projects/JS CSS Restructure/Sass Restructure V2/css/global/military.desktop.global.consolidated.scss",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/P/ad_files/MST/css/sass/_template.responsive.scss",
+		"/P/ad_files/MST/css/sass/waaf.responsive.scss",
+		"/P/ad_files/MST/css/waaf.responsive.css",
+		"/P/ad_files/email_updates/email_rendering_MIL-1331/af-active_AD.htm",
+		"/P/ad_files/MST/header_footer.html",
+		"/P/ad_files/email_updates/email_rendering_MIL-1331/original_source_html/af-active.htm",
+		"/P/ad_files/main_website/css/sass/military.desktop.global.consolidated.scss",
+		"/P/ad_files/main_website/homepage_dev_local.html",
+		"/P/ad_files/TRICARE Gate/widget.registration.tricare2016.json",
+		"/P/ad_files/email_updates/Litmus Mobile Template/litmus_mobilefirendly_newslettertemplate.html",
+		"/P/ad_files/TRICARE Gate/servicespecific.gates.styles.css",
+		"/P/ad_files/main_website/css/military.desktop.global.consolidated.css",
+		"/P/ad_files/TRICARE Gate/widget.registration.tricare.json",
+		"/C/Users/adelaney/Desktop/test.html",
+		"/P/ad_files/main_website/css/sass/_global-responsive.scss",
+		"/P/ad_files/main_website/css/sass/_military.desktop.header.scss",
+		"/P/ad_files/main_website/css/sass/_global-fonts.scss",
+		"/P/ad_files/main_website/css/sass/_global-mixins.scss",
+		"/P/ad_files/main_website/css/sass/_military.desktop.global.scss",
+		"/P/ad_files/main_website/css/jquery-ui-1.8.custom.css",
+		"/P/ad_files/main_website/css/sass/_lightslider.scss",
+		"/P/ad_files/main_website/css/sass/_military.desktop.component.scss",
+		"/P/ad_files/main_website/homepage_local.html",
+		"/P/ad_files/sass/example/sass/_head-foot.scss",
+		"/P/ad_files/main_website/css/jquery-ui-1.8.custom.scss",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/adelaney/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/P/ad_files/main_website/css/military.desktop.component.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"P:\\ad_files\\main_website"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"float: right",
+			"float",
+			".ad",
+			"-web",
+			"a {",
+			"sidebar",
+			"imagedev",
+			"<script src='",
+			"'> </script>",
+			".js",
+			"'> </script>",
+			"<script src='",
+			"test",
+			"P:\\ad_files\\Projects\\JS CSS Restructure\\Sass Restructure V2",
+			".css",
+			"../",
+			"_my",
+			"join now",
+			"/benefits/",
+			"fonts.googleapis.com",
+			"ul[type=\"disc\"]",
+			"Material Icons",
+			"liga",
+			"material-icons",
+			"headerSearch",
+			"\"//",
+			"<table",
+			"font-size: 13px;",
+			".copyright",
+			"Videos of the Week"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/global/_global.forms.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sass/global/_global.navigation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/pages/page.highlight.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/widgets/_widget.linkbar.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/core.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								960,
+								960
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/global/_global.fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/global/_global.footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "git-test.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
