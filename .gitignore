@@ -21,6 +21,11 @@ $RECYCLE.BIN/
 *.scssc
 *.css.map
 
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+
 # =========================
 # Operating System Files
 # =========================
