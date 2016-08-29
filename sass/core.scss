@@ -38,10 +38,11 @@
 
 // ------------------------------------------------
 // GLOBAL WIDGET COMPONENTS
+@import 'widgets/_widget.menu.scss';
 @import 'widgets/_widget.social.scss';
 @import 'widgets/_widget.linkbar.scss';
 @import 'widgets/_widget.listview-two-col.scss';
-// @import 'widgets/_widget.listview-three-col.scss';
+@import 'widgets/_widget.listview-three-col.scss';
 
 
 // ------------------------------------------------
