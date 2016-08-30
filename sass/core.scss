@@ -23,6 +23,7 @@
 
 // ------------------------------------------------
 // GLOBAL STRUCTURE
+@import 'global/_global.grid.scss';
 @import 'global/_global.header.scss';
 @import 'global/_global.footer.scss';
 @import 'global/_global.navigation.scss';
@@ -38,7 +39,7 @@
 
 // ------------------------------------------------
 // GLOBAL WIDGET COMPONENTS
-@import 'widgets/_widget.menu.scss';
+// @import 'widgets/_widget.menu.scss';
 @import 'widgets/_widget.social.scss';
 @import 'widgets/_widget.linkbar.scss';
 @import 'widgets/_widget.listview-two-col.scss';
